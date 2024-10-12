@@ -1,4 +1,4 @@
-# **Udemy Clone - E-Learning Platform**
+# **LearnQuest - E-Learning Platform**
 
 ## **Overview**
 This application is a feature-rich e-learning platform that allows users to browse, purchase, and interact with courses. It offers both **student** and **teacher** modes, providing a seamless learning and course creation experience.
